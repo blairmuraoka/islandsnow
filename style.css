@@ -8,3 +8,13 @@
   border: none;
   box-shadow: none;
 }
+
+.footer-background {
+  background-color: #292929;
+  padding: 10px 0 10px 0;
+  color: white;
+}
+
+.item.footermenu {
+  color: white;
+}
